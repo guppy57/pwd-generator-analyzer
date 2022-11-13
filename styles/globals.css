@@ -1,3 +1,25 @@
+@font-face {
+  font-family: 'CraftworkSans-Bold';
+  src: url('/fonts/Craftwork-Bold/CraftworkSans-Bold.eot');
+  src: url('/fonts/Craftwork-Bold/CraftworkSans-Bold.eot?#iefix') format('embedded-opentype'),
+       url('/fonts/Craftwork-Bold/CraftworkSans-Bold.svg#CraftworkSans-Bold') format('svg'),
+       url('/fonts/Craftwork-Bold/CraftworkSans-Bold.woff') format('woff'),
+       url('/fonts/Craftwork-Bold/CraftworkSans-Bold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CraftworkSans-Regular';
+  src: url('/fonts/Craftwork-Regular/CraftworkSans-Regular.eot');
+  src: url('/fonts/Craftwork-Regular/CraftworkSans-Regular.eot?#iefix') format('embedded-opentype'),
+       url('/fonts/Craftwork-Regular/CraftworkSans-Regular.svg#CraftworkSans-Regular') format('svg'),
+       url('/fonts/Craftwork-Regular/CraftworkSans-Regular.woff') format('woff'),
+       url('/fonts/Craftwork-Regular/CraftworkSans-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
 html,
 body {
   padding: 0;
